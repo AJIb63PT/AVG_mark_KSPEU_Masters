@@ -8,7 +8,7 @@ AVG_mark_KSPEU_Masters
 npm install
 ```
 
-## Project setup
+## Parser config
 
 in index.js fill "login" and "password" with password and login for personal account
 
